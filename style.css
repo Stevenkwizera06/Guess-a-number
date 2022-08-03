@@ -10,9 +10,9 @@ html {
 }
 
 body {
-    font-family: 'Press Start 2P', sans-serif;
+    font-family: 'Press Start 2P', Arial, Helvetica, sans-serif;
     color: rgb(239, 237, 244);
-    background-color: rgb(4, 4, 4);
+    background-color: rgb(110, 86, 86);
 }
 
 
@@ -22,6 +22,7 @@ header {
     position: relative;
     height: 35vh;
     border-bottom: 7px solid #eee;
+    color: rgb(55, 9, 242);
 }
 
 main {
@@ -58,7 +59,7 @@ h1 {
 }
 
 .number {
-    background: #eee;
+    background: rgb(12, 6, 180);
     color: #333;
     font-size: 6rem;
     width: 15rem;
@@ -98,7 +99,7 @@ h1 {
 
 .btn {
     border: none;
-    background-color: #eee;
+    background-color: rgb(12, 6, 180);
     color: #222;
     font-size: 2rem;
     font-family: inherit;
